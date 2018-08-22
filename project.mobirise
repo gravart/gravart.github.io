@@ -39,8 +39,8 @@
     "siteFonts": [],
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": "<script src=\"https://vk.com/js/api/openapi.js?159\" type=\"text/javascript\"></script>\r\n<div id=\"vk_community_messages\"></div>\r\n<script type=\"text/javascript\">\r\nvar widget = VK.Widgets.CommunityMessages(\"vk_community_messages\", 20003922);\r\nwidget.stopTitleAnimation();\r\nwidget.expand({\r\nwelcomeScreen: 1,\r\n});\r\n</script>",
-    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+    "google-analytics": "",
+    "cookiesAlert": "",
     "gdpr": "",
     "siteUrl": "undefined"
   },
